@@ -1,3 +1,3 @@
 # obsidian-webpage-test
 
-[go to test page](Hello.md)
+[go to test page](hi/Hello.md)

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hello.md",
-            "mode": "source"
+            "file": "hi/Hello.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "hi/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "980949b222746528",
   "lastOpenFiles": [
+    "hi/Hello.md",
     "Hello.md",
     "Untitled.md"
   ]
