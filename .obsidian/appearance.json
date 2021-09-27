@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Spectrum"
+  "cssTheme": "Spectrum",
+  "enabledCssSnippets": [
+    "justifytext"
+  ]
 }
