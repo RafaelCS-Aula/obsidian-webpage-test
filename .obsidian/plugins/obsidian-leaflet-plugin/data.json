@@ -1,5 +1,260 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1632765185005,
+      "markers": [
+        {
+          "id": "ID_bbe9eaca9ae8",
+          "type": "default",
+          "loc": [
+            -2.6845703125,
+            5.65625
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d83988ba4a28",
+          "type": "default",
+          "loc": [
+            -2.2470703125,
+            2.4375
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab8bab08490a",
+          "type": "default",
+          "loc": [
+            -1.0595703125,
+            -0.34375
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a3a7bf9395a",
+          "type": "default",
+          "loc": [
+            0.8154296875,
+            1.53125
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bf928bad90b",
+          "type": "default",
+          "loc": [
+            -0.8408203125,
+            5.09375
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a9a2aa9b8eb",
+          "type": "default",
+          "loc": [
+            -2.1845703125,
+            6.875
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68380b2849bb",
+          "type": "default",
+          "loc": [
+            -4.6845703125,
+            7.09375
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abcadbdbbacb",
+          "type": "default",
+          "loc": [
+            -5.1220703125,
+            3.3125
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68aa693a2aab",
+          "type": "default",
+          "loc": [
+            -4.9970703125,
+            1.03125
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f928685a9979",
+          "type": "default",
+          "loc": [
+            -5.3408203125,
+            0.90625
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a69ab699ad8",
+          "type": "default",
+          "loc": [
+            -6.0595703125,
+            1.875
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28ca79f8588b",
+          "type": "default",
+          "loc": [
+            -5.4658203125,
+            3.5
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebdbeb08883a",
+          "type": "default",
+          "loc": [
+            -3.8095703125,
+            5.28125
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea39b979a8b8",
+          "type": "default",
+          "loc": [
+            -3.5283203125,
+            3
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b094ae9984a",
+          "type": "default",
+          "loc": [
+            -3.4033203125,
+            2.125
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bab6aba19fb",
+          "type": "default",
+          "loc": [
+            -2.78125,
+            1.4375
+          ],
+          "link": null,
+          "layer": "%5B%5BIMG_20210712_174805.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17692307692307693,
+            0.4564102564102564
+          ],
+          "description": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Hello.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
